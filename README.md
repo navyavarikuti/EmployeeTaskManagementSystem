@@ -52,30 +52,30 @@ EmployeeTaskManagement/
 ├── TaskManagement.py
 ├── TestTaskManagement.py
 └── README.md
-
+```
 ## How to Run
 
 ### Step 1: Clone the Repository
 
 ```bash
 git clone <your-github-repository-url>
-
+```
 ### Step 2: Navigate to the Project
 
 ```bash
 cd EmployeeTaskManagement
-
+```
 ### Step 3: Run the Application
 
 ```bash
 python TaskManagement.py
-
+```
 ### Step 4: Run Unit Tests
 
 ```bash
 python -m unittest TestTaskManagement.py -v
 
-
+```
 ## Application Workflow
 
 ### 1. Create Employees
@@ -136,7 +136,7 @@ The project uses Python's built-in `unittest` framework.
 
 ```bash
 python -m unittest TestTaskManagement.py -v
-
+```
 ## Future Enhancements
 
 - Add an interactive command-line menu
